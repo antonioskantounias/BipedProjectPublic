@@ -1,0 +1,11 @@
+diff a/Optimization/SimulationCodes/Scripts/GenerateCadWorkSpaceActive.m b/Optimization/SimulationCodes/Scripts/GenerateCadWorkSpaceActive.m	(rejected hunks)
+@@ -16,6 +16,9 @@
+ 
+ %% Model parameters
+ 
++parametersModel.m1F                 = 1.003;
++parametersModel.m1T                 = 0.33392;
++parametersModel.M                   = 2.39911;
+ parametersModel.L1F                 = 0.189179583035072;
+ parametersModel.L1T                 = 0.55-0.189179583035072;
+ parametersModel.l1F                 = 0.05334;

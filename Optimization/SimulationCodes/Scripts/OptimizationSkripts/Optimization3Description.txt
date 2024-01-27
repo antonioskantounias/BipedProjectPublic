@@ -1,0 +1,3 @@
+Third optimization run. 
+The tibial and the femoral link has been created.
+The idea is to optimize the the whole robot based on the construction constraints.

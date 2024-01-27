@@ -1,0 +1,38 @@
+﻿"Bearing1d"= 20
+"Bearing1dd"= 32
+"Bearing1B"= 7
+"Bearing2d"= 30
+"Bearing2dd"= 42
+"Bearing2B"= 7
+"Bearing3d"= 8
+"Bearing3dd"= 16
+"Bearing3B"= 6
+"Bearing4d"= 17
+"Bearing4dd"= 30
+"Bearing4B"= 7
+"RetainRing1d"= 18.5
+"RetainRing1B"= 1.2
+"RetainRing1T"= 1.1
+"RetainRing2d"= 27.9
+"RetainRing2B"= 1.4
+"RetainRing2T"= 1.3
+"RetainRing3d"= 7.5
+"RetainRing3B"= 0.7
+"RetainRing3T"= 0.6
+"RetainRing4d"= 16.1
+"RetainRing4B"= 1.0
+"RetainRing4T"= 0.9
+"Link3Length"= 30
+"Link3Femoral"= 0.5
+"Link3FemoralAngle"= 25
+"Link1Length"= 70
+"Link1Tibial"= 0.5
+"Link1TibialAngle"= 105
+"Link2Length"= 75
+"Link4Length"= 70
+"FemoralLength"= 150
+"FemoralWidth"= 18
+"FemoralDepth"= 22
+"TibialLength"= 400"TibialWidht"=18"TibialDepth"=22
+"HipWidth"= 24
+"MotorDiameterExternal"=45"MotorDiameterLocationInnerBolt"=25"MotorWidth"=12"MotorDiameterLocationOuterBolt"=35

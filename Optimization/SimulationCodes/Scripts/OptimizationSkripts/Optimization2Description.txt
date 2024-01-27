@@ -1,0 +1,3 @@
+Second optimization run. 
+The tibial link has been created.
+The idea is to optimize the femoral link based on the tibial link characteristics

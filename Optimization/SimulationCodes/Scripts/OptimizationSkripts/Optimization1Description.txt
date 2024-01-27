@@ -1,0 +1,2 @@
+First optimization run with no construction cost included.
+The idea is that this is a priliminary optimization that will direct the cad design.
